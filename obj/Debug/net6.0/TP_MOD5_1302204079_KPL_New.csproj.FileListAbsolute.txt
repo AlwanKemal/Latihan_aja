@@ -1,0 +1,15 @@
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\bin\Debug\net6.0\TP_MOD5_1302204079_KPL_New.exe
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\bin\Debug\net6.0\TP_MOD5_1302204079_KPL_New.deps.json
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\bin\Debug\net6.0\TP_MOD5_1302204079_KPL_New.runtimeconfig.json
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\bin\Debug\net6.0\TP_MOD5_1302204079_KPL_New.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\bin\Debug\net6.0\TP_MOD5_1302204079_KPL_New.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.csproj.AssemblyReference.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.AssemblyInfoInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.AssemblyInfo.cs
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.csproj.CoreCompileInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\refint\TP_MOD5_1302204079_KPL_New.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\TP_MOD5_1302204079_KPL_New.genruntimeconfig.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079_KPL_New\obj\Debug\net6.0\ref\TP_MOD5_1302204079_KPL_New.dll
